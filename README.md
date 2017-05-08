@@ -36,4 +36,11 @@ __360__:
 |  | [Chinese security vendor caught cheating in AV test](https://www.itnews.com.au/news/chinese-security-vendor-caught-cheating-in-av-test-403418) |
 
 
+__新浪微博__:
+
+|  |  |
+|:-------:| ----------- |
+| 随意封号，删微博 | |
+
+
 说起来很惭愧，上面这些公司我都不够资格进去工作。但是对于那些在这些公司里工作，设计了这些流氓功能的经理，写出了这些流氓代码的程序员们来说，你们真的不做这种事情就混不下去了吗？换一个干正经事的工作就那么难吗？
